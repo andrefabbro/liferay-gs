@@ -1,6 +1,6 @@
 <%@ include file="/init.jsp" %>
 
-<div ng-app="todomvc">
+<div>
 		<ng-view></ng-view>
 
 		<script type="text/ng-template" id="todomvc-index.html">

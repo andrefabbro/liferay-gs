@@ -1,0 +1,7 @@
+	<div>
+		<a ui-sref="{{portletId}}dashboard">projects</a>
+		<a ng-click="change()">click</a>
+		<span>Shared var:</span><input ng-model="sharedVar" ng-model-options=" {getterSetter: true } "></input>
+		<span>Non-shared var:</span><input ng-model="myVar"> </input>
+		{{myVar}}
+	</div>

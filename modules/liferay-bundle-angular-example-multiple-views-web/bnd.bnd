@@ -1,0 +1,8 @@
+Bundle-Name: liferay-bundle-angular-example-multiple-views-web
+Bundle-SymbolicName: com.rafoli.liferay.bundle.angular.example.multiple.views.web
+Bundle-Version: 1.0.0
+
+-includeresource:\
+	META-INF/resources=src/main/resources/META-INF/resources
+	
+Web-ContextPath: /multiple-views-web

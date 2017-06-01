@@ -21,7 +21,7 @@
     </#if> 
 </#list>
 
-<body class="${css_class}">
+<body id="mainApp" class="${css_class}">
 
 <@liferay_ui["quick-access"] contentId="#main-content" />
 
