@@ -1,0 +1,8 @@
+Bundle-Name: Liferay Angular Bundle
+Bundle-SymbolicName: com.rafoli.liferay.bundle.angular
+Bundle-Version: 1.6.4
+
+-includeresource:\
+	META-INF/resources=src/main/resources/META-INF/resources
+	
+Web-ContextPath: /liferay-bundle-angular	
