@@ -14,4 +14,6 @@ apply plugin: "com.liferay.workspace"
 include 'liferay-acceptance-test'
 include 'modules:liferay-acceptance-tests'
 findProject(':modules:liferay-acceptance-tests')?.name = 'liferay-acceptance-tests'
+include 'kotlin-example'
+include 'java-example'
 

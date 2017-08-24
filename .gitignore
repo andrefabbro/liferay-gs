@@ -22,5 +22,5 @@
 /plugins-sdk/dist
 /plugins-sdk/lib
 test-results
-modules/liferay-acceptance-tests/cucumber-html-report/
-modules/liferay-acceptance-tests/reports/
+/modules/liferay-acceptance-tests/java-example/cucumber-html-report/
+/modules/liferay-acceptance-tests/java-example/reports/
