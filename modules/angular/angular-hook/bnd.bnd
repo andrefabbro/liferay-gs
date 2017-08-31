@@ -1,0 +1,4 @@
+Bundle-Description: Loads Angular v4.x globally
+Bundle-Version: 1.0.0
+Web-ContextPath: /angular-hook
+-sources: true
